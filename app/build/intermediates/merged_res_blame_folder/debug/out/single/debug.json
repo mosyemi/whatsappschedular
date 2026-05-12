@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/de-favre/.gradle/daemon/8.14.4/com.yourname.whatsappscheduler.app-merged_res-38:/drawable_header_background.xml.flat",
+        "source": "/home/de-favre/.gradle/daemon/8.14.4/com.yourname.whatsappscheduler.app-main-40:/drawable/header_background.xml"
+    },
+    {
+        "merged": "/home/de-favre/.gradle/daemon/8.14.4/com.yourname.whatsappscheduler.app-merged_res-38:/layout_item_scheduled_message.xml.flat",
+        "source": "/home/de-favre/.gradle/daemon/8.14.4/com.yourname.whatsappscheduler.app-main-40:/layout/item_scheduled_message.xml"
+    },
+    {
+        "merged": "/home/de-favre/.gradle/daemon/8.14.4/com.yourname.whatsappscheduler.app-merged_res-38:/drawable_splash_photo.png.flat",
+        "source": "/home/de-favre/.gradle/daemon/8.14.4/com.yourname.whatsappscheduler.app-main-40:/drawable/splash_photo.png"
+    },
+    {
+        "merged": "com.yourname.whatsappscheduler.app-merged_res-38:/layout_activity_main.xml.flat",
+        "source": "com.yourname.whatsappscheduler.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/de-favre/.gradle/daemon/8.14.4/com.yourname.whatsappscheduler.app-merged_res-38:/drawable_selected_time_background.xml.flat",
+        "source": "/home/de-favre/.gradle/daemon/8.14.4/com.yourname.whatsappscheduler.app-main-40:/drawable/selected_time_background.xml"
+    },
+    {
+        "merged": "/home/de-favre/.gradle/daemon/8.14.4/com.yourname.whatsappscheduler.app-merged_res-38:/layout_item_contact.xml.flat",
+        "source": "/home/de-favre/.gradle/daemon/8.14.4/com.yourname.whatsappscheduler.app-main-40:/layout/item_contact.xml"
+    },
+    {
+        "merged": "/home/de-favre/.gradle/daemon/8.14.4/com.yourname.whatsappscheduler.app-merged_res-38:/drawable_message_item_background.xml.flat",
+        "source": "/home/de-favre/.gradle/daemon/8.14.4/com.yourname.whatsappscheduler.app-main-40:/drawable/message_item_background.xml"
+    },
+    {
+        "merged": "/home/de-favre/.gradle/daemon/8.14.4/com.yourname.whatsappscheduler.app-merged_res-38:/layout_activity_splash.xml.flat",
+        "source": "/home/de-favre/.gradle/daemon/8.14.4/com.yourname.whatsappscheduler.app-main-40:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/de-favre/.gradle/daemon/8.14.4/com.yourname.whatsappscheduler.app-merged_res-38:/drawable_splash_photo.xml.flat",
+        "source": "/home/de-favre/.gradle/daemon/8.14.4/com.yourname.whatsappscheduler.app-main-40:/drawable/splash_photo.xml"
+    },
+    {
+        "merged": "com.yourname.whatsappscheduler.app-merged_res-38:/drawable_contact_chip_background.xml.flat",
+        "source": "com.yourname.whatsappscheduler.app-main-40:/drawable/contact_chip_background.xml"
+    },
+    {
+        "merged": "/home/de-favre/.gradle/daemon/8.14.4/com.yourname.whatsappscheduler.app-merged_res-38:/layout_activity_contact_selection.xml.flat",
+        "source": "/home/de-favre/.gradle/daemon/8.14.4/com.yourname.whatsappscheduler.app-main-40:/layout/activity_contact_selection.xml"
+    },
+    {
+        "merged": "/home/de-favre/.gradle/daemon/8.14.4/com.yourname.whatsappscheduler.app-merged_res-38:/layout_activity_scheduled.xml.flat",
+        "source": "/home/de-favre/.gradle/daemon/8.14.4/com.yourname.whatsappscheduler.app-main-40:/layout/activity_scheduled.xml"
+    },
+    {
+        "merged": "com.yourname.whatsappscheduler.app-merged_res-38:/drawable_main_background.xml.flat",
+        "source": "com.yourname.whatsappscheduler.app-main-40:/drawable/main_background.xml"
+    },
+    {
+        "merged": "com.yourname.whatsappscheduler.app-merged_res-38:/drawable_main_panel_background.xml.flat",
+        "source": "com.yourname.whatsappscheduler.app-main-40:/drawable/main_panel_background.xml"
+    },
+    {
+        "merged": "/home/de-favre/.gradle/daemon/8.14.4/com.yourname.whatsappscheduler.app-merged_res-38:/layout_activity_main.xml.flat",
+        "source": "/home/de-favre/.gradle/daemon/8.14.4/com.yourname.whatsappscheduler.app-main-40:/layout/activity_main.xml"
+    }
+]

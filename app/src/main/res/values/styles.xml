@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.WhatsAppScheduler" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/scheduler_blue</item>
+        <item name="colorPrimaryVariant">@color/scheduler_blue_dark</item>
+        <item name="colorSecondary">@color/scheduler_orange</item>
+        <item name="colorSecondaryVariant">@color/scheduler_orange_dark</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">@color/scheduler_blue_dark</item>
+        <item name="android:navigationBarColor">@color/scheduler_background</item>
+        <item name="android:windowBackground">@color/scheduler_background</item>
+        <item name="android:textColorPrimary">@color/scheduler_text_primary</item>
+        <item name="android:textColorSecondary">@color/scheduler_text_secondary</item>
+    </style>
+</resources>

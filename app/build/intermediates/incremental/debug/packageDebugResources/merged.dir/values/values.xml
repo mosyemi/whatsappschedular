@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="scheduler_background">#F4F7FB</color>
+    <color name="scheduler_blue">#0F4C81</color>
+    <color name="scheduler_blue_dark">#083457</color>
+    <color name="scheduler_blue_soft">#EAF3FB</color>
+    <color name="scheduler_border">#DCE5EF</color>
+    <color name="scheduler_orange">#F47C20</color>
+    <color name="scheduler_orange_dark">#C75E0E</color>
+    <color name="scheduler_orange_soft">#FFF2E8</color>
+    <color name="scheduler_surface">#FFFFFF</color>
+    <color name="scheduler_text_primary">#14213D</color>
+    <color name="scheduler_text_secondary">#5F6C7B</color>
+    <style name="Theme.WhatsAppScheduler" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/scheduler_blue</item>
+        <item name="colorPrimaryVariant">@color/scheduler_blue_dark</item>
+        <item name="colorSecondary">@color/scheduler_orange</item>
+        <item name="colorSecondaryVariant">@color/scheduler_orange_dark</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">@color/scheduler_blue_dark</item>
+        <item name="android:navigationBarColor">@color/scheduler_background</item>
+        <item name="android:windowBackground">@color/scheduler_background</item>
+        <item name="android:textColorPrimary">@color/scheduler_text_primary</item>
+        <item name="android:textColorSecondary">@color/scheduler_text_secondary</item>
+    </style>
+</resources>

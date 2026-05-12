@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="scheduler_blue">#0F4C81</color>
+    <color name="scheduler_blue_dark">#083457</color>
+    <color name="scheduler_orange">#F47C20</color>
+    <color name="scheduler_orange_dark">#C75E0E</color>
+    <color name="scheduler_background">#F4F7FB</color>
+    <color name="scheduler_surface">#FFFFFF</color>
+    <color name="scheduler_text_primary">#14213D</color>
+    <color name="scheduler_text_secondary">#5F6C7B</color>
+    <color name="scheduler_border">#DCE5EF</color>
+    <color name="scheduler_blue_soft">#EAF3FB</color>
+    <color name="scheduler_orange_soft">#FFF2E8</color>
+</resources>
