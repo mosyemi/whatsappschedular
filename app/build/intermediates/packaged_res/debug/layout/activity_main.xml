@@ -82,6 +82,21 @@
                     app:strokeColor="@color/scheduler_blue"
                     app:strokeWidth="1dp" />
 
+                <Button
+                    android:id="@+id/btnImportContacts"
+                    style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="8dp"
+                    android:text="Import contacts file"
+                    android:textAllCaps="false"
+                    android:textColor="@color/scheduler_blue"
+                    app:icon="@android:drawable/ic_menu_upload"
+                    app:iconGravity="textStart"
+                    app:iconTint="@color/scheduler_blue"
+                    app:strokeColor="@color/scheduler_blue"
+                    app:strokeWidth="1dp" />
+
                 <TextView
                     android:id="@+id/tvSelectedContact"
                     android:layout_width="match_parent"

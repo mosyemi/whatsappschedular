@@ -3196,6 +3196,7 @@ id bounceEnd
 id bounceStart
 id btnDelete
 id btnDone
+id btnImportContacts
 id btnPickDateTime
 id btnResend
 id btnSchedule

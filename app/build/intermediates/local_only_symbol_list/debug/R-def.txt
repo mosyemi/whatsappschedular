@@ -20,6 +20,7 @@ drawable selected_time_background
 drawable splash_photo
 id btnDelete
 id btnDone
+id btnImportContacts
 id btnPickDateTime
 id btnResend
 id btnSchedule
